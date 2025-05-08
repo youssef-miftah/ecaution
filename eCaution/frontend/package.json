@@ -1,0 +1,26 @@
+{
+  "name": "sharely",
+  "version": "1.0.0",
+  "main": "fileService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACKAMORA/Sharely.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/HACKAMORA/Sharely/issues"
+  },
+  "homepage": "https://github.com/HACKAMORA/Sharely#readme",
+  "description": ""
+}
